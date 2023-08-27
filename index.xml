@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Hugo</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 27 Aug 2023 18:52:55 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2023 20:37:54 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>再试一次</title>
-      <link>http://example.org/post/%E5%86%8D%E8%AF%95%E4%B8%80%E6%AC%A1/</link>
-      <pubDate>Sun, 27 Aug 2023 18:52:55 +0800</pubDate>
+      <title>One Last Kiss</title>
+      <link>http://example.org/post/20230827/</link>
+      <pubDate>Sun, 27 Aug 2023 20:37:54 +0800</pubDate>
       
-      <guid>http://example.org/post/%E5%86%8D%E8%AF%95%E4%B8%80%E6%AC%A1/</guid>
-      <description>再试一次！本地看看能不能更新了。</description>
+      <guid>http://example.org/post/20230827/</guid>
+      <description>宇多田ヒカル『One Last Kiss』 初めてのルーブルは なんてことはなかったわ 私だけのモナリザ もうとっくに出会ってたから 初めてあなたを見た あの日動き出した歯車 止められない喪失の予感
+もういっぱいあるけど もう一つ増やしましょう (Can you give me one last kiss？) 忘れたくないこと
+Oh oh oh oh oh… 忘れたくないこと Oh oh oh oh oh… I love you more than you’ll ever know
+「写真は苦手なんだ」 でもそんなものはいらないわ あなたが焼きついたまま 私の心のプロジェクター 寂しくないふりしてた まあ、そんなのお互い様か 誰かを求めることは 即ち傷つくことだった
+Oh, can you give me one last kiss？ 燃えるようなキスをしよう 忘れたくても 忘れられないほど
+Oh oh oh oh oh… I love you more than you’ll ever know Oh oh oh oh oh… I love you more than you’ll ever know</description>
     </item>
     
   </channel>
