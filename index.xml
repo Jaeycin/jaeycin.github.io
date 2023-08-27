@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo</title>
-    <link>http://example.org/</link>
+    <link>https://jaeycin.github.io/</link>
     <description>Recent content on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 20:41:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 27 Aug 2023 20:41:31 +0800</lastBuildDate><atom:link href="https://jaeycin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第二篇 上传的话</title>
-      <link>http://example.org/post/new/</link>
+      <link>https://jaeycin.github.io/post/new/</link>
       <pubDate>Sun, 27 Aug 2023 20:41:31 +0800</pubDate>
       
-      <guid>http://example.org/post/new/</guid>
+      <guid>https://jaeycin.github.io/post/new/</guid>
       <description>搞了一晚上了！！！</description>
     </item>
     
     <item>
       <title>One Last Kiss</title>
-      <link>http://example.org/post/20230827/</link>
+      <link>https://jaeycin.github.io/post/20230827/</link>
       <pubDate>Sun, 27 Aug 2023 20:37:54 +0800</pubDate>
       
-      <guid>http://example.org/post/20230827/</guid>
+      <guid>https://jaeycin.github.io/post/20230827/</guid>
       <description>宇多田ヒカル『One Last Kiss』 初めてのルーブルは なんてことはなかったわ 私だけのモナリザ もうとっくに出会ってたから 初めてあなたを見た あの日動き出した歯車 止められない喪失の予感
 もういっぱいあるけど もう一つ増やしましょう (Can you give me one last kiss？) 忘れたくないこと
 Oh oh oh oh oh… 忘れたくないこと Oh oh oh oh oh… I love you more than you’ll ever know
